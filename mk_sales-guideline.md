@@ -157,7 +157,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 <div align="center">  表 WebBP-mkの提供範囲(レイヤー) </div>  
 <br />  
 
-| | | <span style="font-size: 11px;">マネージドサービス</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
+||| <span style="font-size: 11px;">マネージドサービス</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
 |:-------------------------------	|:--------------------------------------	|:--------------------------------------:|:----:|:----:|
 | <span style="font-size:12px">**お客さま情報システム<br>構築･運用**</span>  	| Logical Network 	| ◎ 	| ◎ 	| ◎ 	|
 |  	| Virtual Machine/Storage 	| ◎  	| ◎  	| ◎  	|
@@ -165,7 +165,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 |  	| Middleware/Database 	| － 	| ◎ 	| ◎ 	|
 |  	| PackageSoftware(※1) 	| － 	| ◎ 	| ◎ 	|
 |  	|  Software開発(※2)	 	| － 	| － 	| ◎ 	|
-| <span style="font-size:12px">**お客さまサービス<br>運用代行**(※3)</span> |  	| － 	| － 	| ◯ 	|  
+| <span style="font-size:12px">**お客さまサービス<br>運用代行**(※3)</span> |  	| － 	| － 	| ◯ 	|
 
 	※1 市販のパッケージソフトウェアを指します。  
 	   導入、設定、パッチ当て等の運用を提供します。ソフトウェアのカスタマイズ、及びその運用は対象外
