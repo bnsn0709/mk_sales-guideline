@@ -154,7 +154,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 <br>
 <br>
 
-<div align="center"> <span style="font-size: 10px;">表: WebBP-mkの提供範囲(レイヤー) </span></div>  
+<div align="center"> <span style="font-size: 5px;">表: WebBP-mkの提供範囲(レイヤー) </span></div>  
 <br />  
 
 | | | <span style="font-size: 10px;">マネージドサービス</span> 	| <span style="font-size: 70%;">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size: 70%;">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
