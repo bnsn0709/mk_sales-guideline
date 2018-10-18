@@ -162,8 +162,8 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 |  	| Operation System 	| ◎  	| ◎  	| ◎  	|
 |  	| Middleware/Database 	| － 	| ◎ 	| ◎ 	|
 |  	| PackageSoftware(※1) 	| － 	| ◎ 	| ◎ 	|
-|  	| <font color=red>Software開発(※2)</font>	 	| － 	| － 	| ◎ 	|
-| お客さまサービス 運用代行(※3) |  	| － 	| － 	| ◯ 	|  
+|  	| <font color=red> Software開発(※2) </font>	 	| － 	| － 	| ◎ 	|
+| お客さまサービス<br>運用代行(※3) |  	| － 	| － 	| ◯ 	|  
 
 	※1 市販のパッケージソフトウェアを指します。  
 	   導入、設定、パッチ当て等の運用を提供します。ソフトウェアのカスタマイズ、及びその運用は対象外
