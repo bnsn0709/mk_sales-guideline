@@ -157,7 +157,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 <div align="center"> 表: WebBP-mkの提供範囲(レイヤー) </div>  
 <br>  
   
-| | | <span style="font-size:200%">マネージドサービス</span> 	| <span style="font-size:70%">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size:70%">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
+| | | <span style="font-size:100%">マネージドサービス</span> 	| <span style="font-size:70%">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size:70%">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
 |:-------------------------------	|:--------------------------------------	|:--------------------------------------:|:----:|:----:|
 | <span style="font-size:70%">**お客さま情報システム<br>構築･運用**</span>  	| Logical Network 	| ◎ 	| ◎ 	| ◎ 	|
 |  	| Virtual Machine/Storage 	| ◎  	| ◎  	| ◎  	|
