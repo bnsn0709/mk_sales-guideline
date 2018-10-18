@@ -181,7 +181,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
   <th>見出し3</th>
 </tr>
 <tr>
-  <td>内容1-1</td>
+  <td><span style="font-size:70%">内容1-1</span></td>
   <td>内容1-2</td>
   <td>内容1-3</td>
 </tr>
