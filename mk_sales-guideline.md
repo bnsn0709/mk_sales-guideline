@@ -154,7 +154,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 <br>
 <br>
 
-<div align="center"> <span style="font-size: 5px;">表: WebBP-mkの提供範囲(レイヤー) </span></div>  
+<div align="center">  表 WebBP-mkの提供範囲(レイヤー) </div>  
 <br />  
 
 | | | <span style="font-size: 10px;">マネージドサービス</span> 	| <span style="font-size: 70%;">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size: 70%;">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
@@ -164,7 +164,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 |  	| Operation System 	| ◎  	| ◎  	| ◎  	|
 |  	| Middleware/Database 	| － 	| ◎ 	| ◎ 	|
 |  	| PackageSoftware(※1) 	| － 	| ◎ 	| ◎ 	|
-|  	| <font color="Red"> Software開発(※2) </font>	 	| － 	| － 	| ◎ 	|
+|  	| <span style="color: red; "> Software開発(※2) </span>	 	| － 	| － 	| ◎ 	|
 | <span style="font-size:70%">**お客さまサービス<br>運用代行**(※3)</span> |  	| － 	| － 	| ◯ 	|  
 
 	※1 市販のパッケージソフトウェアを指します。  
