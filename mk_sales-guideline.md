@@ -157,15 +157,15 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 <div align="center">  表 WebBP-mkの提供範囲(レイヤー) </div>  
 <br />  
 
-| | | <span style="font-size: 10px;">マネージドサービス</span> 	| <span style="font-size: 70%;">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size: 70%;">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
+| | | <span style="font-size: 11px;">マネージドサービス</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発あり]</span> 	|  
 |:-------------------------------	|:--------------------------------------	|:--------------------------------------:|:----:|:----:|
-| <span style="font-size:70%">**お客さま情報システム<br>構築･運用**</span>  	| Logical Network 	| ◎ 	| ◎ 	| ◎ 	|
+| <span style="font-size:12px">**お客さま情報システム<br>構築･運用**</span>  	| Logical Network 	| ◎ 	| ◎ 	| ◎ 	|
 |  	| Virtual Machine/Storage 	| ◎  	| ◎  	| ◎  	|
 |  	| Operation System 	| ◎  	| ◎  	| ◎  	|
 |  	| Middleware/Database 	| － 	| ◎ 	| ◎ 	|
 |  	| PackageSoftware(※1) 	| － 	| ◎ 	| ◎ 	|
 |  	|  Software開発(※2)	 	| － 	| － 	| ◎ 	|
-| <span style="font-size:70%">**お客さまサービス<br>運用代行**(※3)</span> |  	| － 	| － 	| ◯ 	|  
+| <span style="font-size:12px">**お客さまサービス<br>運用代行**(※3)</span> |  	| － 	| － 	| ◯ 	|  
 
 	※1 市販のパッケージソフトウェアを指します。  
 	   導入、設定、パッチ当て等の運用を提供します。ソフトウェアのカスタマイズ、及びその運用は対象外
@@ -173,23 +173,6 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 	※2 ソフトウェアの受託開発を指します。  
 	※3 コンテンツ作成・運用、DBのマスターメンテナンス、アプリリリース、または(iFilter等の)セキュリ
 	　　ティポリシー運用など、お客さまサービスの運用業務　　
-
-<table>
-<tr>
-  <th>見出し1</th>
-  <th>見出し2</th>
-  <th>見出し3</th>
-</tr>
-<tr>
-  <td><span style="font-size:200%">内容1-1</span></td>
-  <td>内容1-2</td>
-  <td>内容1-3</td>
-</tr>
-<tr>
-  <td colspan=2>内容2-1</td>
-  <td>内容2-3</td>
-</tr>
-</table>
 　　
 　　<br>  
 　　
