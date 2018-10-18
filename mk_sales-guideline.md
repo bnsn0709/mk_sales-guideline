@@ -157,7 +157,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 
 | | | <span style="font-size:80%">&emsp;マネージド&emsp;</span> 	| <span style="font-size:80%">&emsp;フルマネージド&emsp;<br>&emsp;[アプリ開発なし]&emsp;</span> 	| <span style="font-size:80%">&emsp;フルマネージド&emsp;<br>&emsp;[アプリ開発あり]&emsp;</span> 	|
 |-------------------------------	|--------------------------------------	|--------------------------------------	|----	|---	|
-| <span style="font-size:80%">**お客さま情報システム<br>構築･運用**</span>  	| Logical Network 	| <div style="text-align:center">◎</div> 	| <div style="text-align: center;">◎</div> 	| <div style="text-align: center;">◎</div> 	|
+| <span style="font-size:80%">**お客さま情報システム<br>構築･運用**</span>  	| Logical Network 	| <center>◎</center> 	| <div style="text-align: center;">◎</div> 	| <div style="text-align: center;">◎</div> 	|
 |  	| Virtual Machine/Storage 	| <div style="text-align: center;">◎</div>  	| <div style="text-align: center;">◎</div>  	| <div style="text-align: center;">◎</div>  	|
 |  	| Operation System 	| <div style="text-align: center;">◎</div>  	| <div style="text-align: center;">◎</div>  	| <div style="text-align: center;">◎</div>  	|
 |  	| Middleware/Database 	| <div style="text-align: center;">－</div> 	| <div style="text-align: center;">◎</div> 	| <div style="text-align: center;">◎</div> 	|
