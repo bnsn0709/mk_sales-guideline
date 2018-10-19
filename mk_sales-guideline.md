@@ -165,8 +165,8 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 |  	| Virtual Machine/Storage 	| ◎  	| ◎  	| ◎  	|
 |  	| Operation System 	| ◎  	| ◎  	| ◎  	|
 |  	| Middleware/Database 	| － 	| ◎ 	| ◎ 	|
-|  	| PackageSoftware(※1) 	| － 	| ◎ 	| ◎ 	|
-|  	|  Software開発(※2)	 	| － 	| － 	| ◎ 	|
+|  	| PackageSoftware<sub>(※1)</sub> 	| － 	| ◎ 	| ◎ 	|
+|  	|  Software開発<sub>(※2)</sub> 	| － 	| － 	| ◎ 	|
 | <span style="font-size:12px">**お客さまサービス<br>運用代行**(※3)</span> |  	| － 	| － 	| ◯ 	|
 
 	※1 市販のパッケージソフトウェアを指します。  
