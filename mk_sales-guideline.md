@@ -151,7 +151,7 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 
 | IaaS 	| Category         	| Level    	| Type   	| system configuration diagram 	|
 |------	|------------------	|----------	|--------	|------------------------------	|
-| AWS  	| Corporate Site   	| Entry    	| a      	| ![エントリ](https://i.imgur.com/ncsfSZ3.png "サンプル")                             	|
+| AWS  	| Corporate Site   	| Entry    	| a      	| ![エントリ](https://i.imgur.com/TX0ajNZ.png "サンプル")                             	|
 |      	|                  	|          	| b      	|                              	|
 |      	|                  	|          	| etc... 	|                              	|
 |      	|                  	| Basic    	| a      	|                              	|
