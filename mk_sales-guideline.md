@@ -150,7 +150,7 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 
 <br>
 
-<div align="center">  表 4-2-1. システム構成パターンの分類 </div>  
+<div align="center">  表 4-2-1. システム構成パターンの分類と構成例 </div>  
 <br />
 
 | IaaS 	| Category         	| Level    	| Type   	| system configuration diagram 	|
