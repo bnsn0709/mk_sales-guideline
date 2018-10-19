@@ -148,7 +148,27 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 
 システム構成パターンは、○○カテゴリ(利用用途)毎に分類され、さらにそれぞれのカテゴリについて、機能、性能、冗長などの観点からEntry、Basic、Advance、とその派生形ということで、多くのバリエーションをご用意します。
 
-
+| Category 	| Level 	| &ensp;type&ensp; 	| &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 	|
+|:------------------	|:----------:	|:------:	|---	|
+| Corporate Sight 	| Entry 	| a 	|  	|
+|  	|  	| b 	|  	|
+|  	|  	| …etc 	|  	|
+|  	| Basic 	| a 	|  	|
+|  	|  	| b 	|  	|
+|  	|  	| …etc 	|  	|
+|  	| Advanced 	| a 	|  	|
+|  	|  	| b 	|  	|
+|  	|  	| c 	|  	|
+|  	|  	| …etc 	|  	|
+| Internet Gateway 	| Entry 	| a 	|  	|
+|  	|  	| b 	|  	|
+|  	|  	| …etc 	|  	|
+|  	| Basic 	| a 	|  	|
+|  	|  	| b 	|  	|
+|  	|  	| …etc 	|  	|
+|  	| Advanced 	| a 	|  	|
+|  	|  	| b 	|  	|
+|  	|  	| …etc 	|  	|
 
   
 WebBP−mkにおける提案は、お客さまにマネージドサービス「WebBP-mk」をご理解いただくとともに、お客さま情報システムに適用する『システム構成パターン』を決定していただくプロセスとなります。
