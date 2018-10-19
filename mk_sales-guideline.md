@@ -148,6 +148,9 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 
 システム構成パターンは、○○カテゴリ(利用用途)毎に分類され、さらにそれぞれのカテゴリについて、機能、性能、冗長などの観点からEntry、Basic、Advance、とその派生形ということで、多くのバリエーションをご用意します。
 
+<br>
+
+<div align="center">  表 システム構成パターンの分類 </div>  
 
 | IaaS 	| Category         	| Level    	| Type   	| system configuration diagram 	|
 |------	|------------------	|----------	|--------	|------------------------------	|
