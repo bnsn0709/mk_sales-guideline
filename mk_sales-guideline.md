@@ -150,7 +150,7 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 
 | Category 	| Level 	| &ensp;type&ensp; 	| &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 	|
 |:------------------	|:----------:	|:------:	|---	|
-| Corporate Sight 	| Entry 	| a 	|  ![エントリ](https://i.imgur.com/UVC9OqG.png "サンプル")	|
+| Corporate Sight 	| Entry 	| a 	|  ![エントリ](https://imgur.com/UVC9OqG "サンプル")	|
 |  	|  	| b 	|  	|
 |  	|  	| …etc 	|  	|
 |  	| Basic 	| a 	|  	|
