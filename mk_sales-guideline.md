@@ -163,30 +163,6 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 |      	| Internet Gateway 	| Entry    	| a      	|                              	|
 |      	|                  	|          	| etc... 	|                              	|
 
-
-
-| IaaS | Category 	| Level 	| &ensp;type&ensp; 	| &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|  
-|:----------:	|:----------:	|:------:	|---	|  
-| AWS | Corporate Sight 	| Entry 	| a 	|  ![エントリ](https://i.imgur.com/0xpjbU9.png "サンプル")	|
-| |  	|  	| b 	|  	|
-| |  	|  	| …etc 	|  	|
-| |  	| Basic 	| a 	|  	|
-| |  	|  	| b 	|  	|
-| |  	|  	| …etc 	|  	|
-| |  	| Advanced 	| a 	|  	|
-| |  	|  	| b 	|  	|
-| |  	|  	| c 	|  	|
-| |  	|  	| …etc 	|  	|
-| | Internet Gateway 	| Entry 	| a 	|  	|
-| |  	|  	| b 	|  	|
-| |  	|  	| …etc 	|  	|
-| |  	| Basic 	| a 	|  	|
-| |  	|  	| b 	|  	|
-| |  	|  	| …etc 	|  	|
-| |  	| Advanced 	| a 	|  	|
-| |  	|  	| b 	|  	|
-| |  	|  	| …etc 	|  	|
-
   
 WebBP−mkにおける提案は、お客さまにマネージドサービス「WebBP-mk」をご理解いただくとともに、お客さま情報システムに適用する『システム構成パターン』を決定していただくプロセスとなります。
 <br>  
