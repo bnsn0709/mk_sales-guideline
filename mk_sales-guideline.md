@@ -199,7 +199,7 @@ WebBP-mkは『マネージドサービス』と『フルマネージドサービ
 |Google Cloud Platform(GCP)  |2019年度提供開始予定  |
 |Microsoft Azure  |2019年度提供開始予定  |
 | NTT Communications Enterprise Cloud 2.0 (ECL2.0) |2019年度提供開始予定  |
-| NTT Communications Enterprise Cloud 2.0 (ECL1.0) |非対応  |  
+| NTT Communications Enterprise Cloud 1.0 (ECL1.0) |非対応  |  
 
 <br>  
 ### 4.5．システム構成パターン
