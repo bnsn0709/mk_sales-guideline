@@ -150,7 +150,7 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 
 <br>
 
-<div align="center">  表 システム構成パターンの分類 </div>  
+<div align="center">  表 4-2-1. システム構成パターンの分類 </div>  
 <br />
 
 | IaaS 	| Category         	| Level    	| Type   	| system configuration diagram 	|
@@ -182,7 +182,7 @@ WebBP-mkの提供範囲においては、サービスデスク、変更管理、
 <br>
 <br>
 
-<div align="center">  表 WebBP-mkの提供範囲(レイヤー) </div>  
+<div align="center">  表 4-2-2. WebBP-mkの提供範囲(レイヤー) </div>  
 <br />  
 
 |  |  | <span style="font-size: 11px;">マネージドサービス</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発なし]</span> 	| <span style="font-size: 11px;">フルマネージドサービス<br>[アプリ開発あり]</span>|  
