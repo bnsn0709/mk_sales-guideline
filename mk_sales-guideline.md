@@ -148,7 +148,7 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 
 システム構成パターンは、○○カテゴリ(利用用途)毎に分類され、さらにそれぞれのカテゴリについて、機能、性能、冗長などの観点からEntry、Basic、Advance、とその派生形ということで、多くのバリエーションをご用意します。
 
-| IaaS | Category 	| Level 	| &ensp;type&ensp; 	| &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 	|
+| IaaS | Category 	| Level 	| &ensp;type&ensp; 	| &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|
 |:----------:	|:----------:	|:------:	|---	|
 | AWS | Corporate Sight 	| Entry 	| a 	|  ![エントリ](https://i.imgur.com/0xpjbU9.png "サンプル")	|
 | |  	|  	| b 	|  	|
