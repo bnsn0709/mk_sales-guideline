@@ -153,18 +153,18 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 <div align="center">  表 4-2-1. システム構成パターンの分類と構成例 </div>  
 <br />
 
-| IaaS 	| Category         	| Level    	| Type   	| system configuration diagram 	|
+| IaaS 	| Category         	| Grade    	| Option   	| system configuration diagram 	|
 |:------:	|------------------	|:----------:	|:--------:	|:------------------------------:	|
-| AWS  	| Corporate Site   	| Entry    	| a      	| ![エントリ](https://i.imgur.com/TX0ajNZ.png "サンプル")                             	|
-|      	|                  	|          	| b      	|                              	|
+| AWS  	| Corporate Site   	| Entry    	| std      	| ![エントリ](https://i.imgur.com/TX0ajNZ.png "サンプル")                             	|
+|      	|                  	|          	| a      	|                              	|
 |      	|                  	|          	| etc... 	|                              	|
-|      	|                  	| Basic    	| a      	|                              	|
-|      	|                  	|          	| b      	|                              	|
+|      	|                  	| Basic    	| std      	|                              	|
+|      	|                  	|          	| a      	|                              	|
 |      	|                  	|          	| etc... 	|                              	|
-|      	|                  	| Advanced 	| a      	|                              	|
-|      	|                  	|          	| b      	|                              	|
+|      	|                  	| Advanced 	| std      	|                              	|
+|      	|                  	|          	| a      	|                              	|
 |      	|                  	|          	| etc... 	|                              	|
-|      	| Internet Gateway 	| Entry    	| a      	|                              	|
+|      	| Internet Gateway 	| Entry    	| std      	|                              	|
 |      	|                  	|          	| etc... 	|                              	|
 
   
