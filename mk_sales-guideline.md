@@ -142,13 +142,6 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 </details>  
 <br>  
 
-#### ② 営業的な狙い
-チャリンチャリンモデルの構築  
-aaa
-
-#### ③ DXにおけるNTTコミュニケーションズの存在感の拡大
-併せてIoT、AI等のデータ活用提案等を行うことで、お客さまのDXへの投資を喚起していくことも見据えています。
-
 
 <br>
 ### 4.2. WebBP-mkの内容  
