@@ -141,8 +141,6 @@ WebBPが提供するマネージドサービス『WebBP-mk』は、お客さま�
 http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/20180907_report.html
 </details>  
 <br>  
-
-
 <br>
 
 ### 4.2. WebBP-mkの内容  
