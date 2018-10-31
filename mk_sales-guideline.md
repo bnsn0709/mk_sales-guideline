@@ -149,7 +149,24 @@ http://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/2018090
 WebBP-mkは、お客さま情報システムの構築と運用を提供する統合的なマネージドサービスです。  
 WebBP-mkで提供する構築と運用のそれぞれのプロセスの多くは自動化されており、安定した作業品質とリードタイムの短縮、低コストを実現しています。なお、構築のみの提供、運用のみの提供は出来ません。
 各プロセスの詳細を説明します。  
+
+プロセスの概要を最所にかき、書いた上で文章で説明する。
 <br>  
+
+`/`/`flowchart　　
+st=>start: Start:>http://www.google.com[blank]
+e=>end:>http://www.google.com
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes or No?:>http://www.google.com
+io=>inputoutput: catch something...
+ 
+st->op1->cond
+cond(yes)->io->e
+cond(no)->sub1(right)->op1
+`/`/`
+
+
 
 #### 4.2.1. 提案  
 WebBP−mkにおける提案は、お客さま情報システムに適用する『システム構成パターン』をお客さまに決定していただくプロセスです。  
@@ -185,7 +202,9 @@ WebBP−mkにおける提案は、お客さま情報システムに適用する�
 
 <br>  
 <br>
+
 #### 4.2.2　設計
+　WebBP-mkでは、要件定義と設計を提供しない。
 
 #### 4.2.3. 構築  
 　WebBP-mkにおける構築は、お客さまにより選定された『システム構成パターン』に基づいて、お客さま情報システムを構築し、試験を行うプロセスです。
