@@ -1,9 +1,9 @@
 ```mermaid
 graph TD 
-Alice --> Bob:
+お客さまmkを提案する -->> 機能要件/非機能要件を整理する --> Bob:
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODQ1MjQ1NCwtOTUwMTQ5ODIxXX0=
+eyJoaXN0b3J5IjpbLTIwMDU2NDQwOCwtOTUwMTQ5ODIxXX0=
 -->
