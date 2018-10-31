@@ -1,6 +1,6 @@
 ```mermaid
 sequenceDiagram
-Alice -->> Bob: Hello Bob, how are you?
+Alice --> Bob  
 Bob-->>John: How about you John?
 Bob--x Alice: I am good thanks!
 Bob-x John: I am good thanks!
@@ -10,5 +10,5 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDYxMDY0NCwtOTUwMTQ5ODIxXX0=
+eyJoaXN0b3J5IjpbLTE5NjkyMjYwOTEsLTk1MDE0OTgyMV19
 -->
