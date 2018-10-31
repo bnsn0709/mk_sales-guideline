@@ -1,9 +1,9 @@
 ```mermaid
-  
-Alice --->> Bob:
+graph TD 
+Alice --> Bob:
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODgxMTU4MywtOTUwMTQ5ODIxXX0=
+eyJoaXN0b3J5IjpbLTU3ODQ1MjQ1NCwtOTUwMTQ5ODIxXX0=
 -->
