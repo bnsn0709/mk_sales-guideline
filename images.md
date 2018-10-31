@@ -1,14 +1,9 @@
 ```mermaid
-sequenceDiagram
-Alice --> Bob  
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+  
+Alice --->> Bob:
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkyMjYwOTEsLTk1MDE0OTgyMV19
+eyJoaXN0b3J5IjpbMTA4ODgxMTU4MywtOTUwMTQ5ODIxXX0=
 -->
