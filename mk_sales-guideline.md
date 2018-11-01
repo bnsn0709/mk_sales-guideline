@@ -213,6 +213,7 @@ WebBP-mkでは、設計は不要です。
   
 <br>  
 <div align="center">  表 4-2-2. システム構成パターンのカスタマイズ </div>  
+<br>
   
 | Customize Type |  Customize Option |
 |:--|:--|
