@@ -206,19 +206,23 @@ WebBP-mkでは、設計は不要です。
 お客さまが決定した『システム構成パターン』に基づいて、必要な設定値(パラメータ)を指定していただくだけで、即座に構築を開始できます。  
 なお、『システム構成パターン』は、規定されたカスタマイズ・オプションの範囲でカスタマイズが可能です。　　
 
-★カスタマイズ・オプション  
-★One-Off(お客さま要件に合わせたゼロからのパターン起こし)をやる、やらないは敢えて書かない。  
-  
+★カスタマイズ・タイプとカスタマイズ・オプション
+Model Customize  
+新たなModelをお客さまの要件により設計し、One-Offとして構築するカスタマイズです。
+Grade Customize
+冗長の構成を変更し、既存パターン以外のZone冗長、Region冗長の構成を設計し、構築するカスタマイズです。
+Type Custmize  
+既存のシステム構成パターンのTypeとして、カスタマイズ・オプションの中から機能を選択して追加するカスタマイズです。  
   
 <br>  
 <div align="center">  表 4-2-2. システム構成パターンのカスタマイズ </div>  
 <br>
   
-| Customize Type | Description |Customize Option |
+| Customize Type | Customize Option |
 |:--|:--|:--|
-| Model Customize | オリジナルモデルをOne-Off提供します。| 未提供 |
-| Grade Customize | 冗長構成をカスタマイズします。| 未提供 |
-| Type　Custmize | 既存Typeに機能を追加します。|　カスタマイズ・オプション一覧をご覧ください。|
+| Model Customize | 定義されません。 |
+| Grade Customize |  定義されません。 未提供 |
+| Type　Custmize | カスタマイズ・オプション一覧をご覧ください。|
 
 
 <br>  
