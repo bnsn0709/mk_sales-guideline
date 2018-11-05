@@ -219,7 +219,7 @@ WebBP-mkでは、設計は不要です。
 <br>
   
 | Customize Type | Customize Option |
-|:--|:--|:--|
+|:--|:--|
 | Model Customize | 定義されません。提供可否は相談ください。 |
 | Grade Customize |  定義されません。 提供可否は相談ください。 |
 | Type　Custmize | カスタマイズ・オプション一覧をご覧ください。|
