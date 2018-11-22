@@ -118,8 +118,7 @@
 		- 経営資源をDXへ振り向けられる  
 		- お客さまビジネスのスピードアップ
 
-
-<a href="https://imgur.com/5pzMNiB"><img src="https://i.imgur.com/5pzMNiB.png" title="source: imgur.com" /></a>
+![](https://i.imgur.com/PcbUVk7.png)
 
 <details><summary> DX(Digital Transformation)とは</summary>
 企業の情報システムのデジタル化を推進して、先進的な機能をスピーディーに取り込んで、新たなビジネスモデルを創出、改変していくことで企業の国際競争力を維持・強化していく考え方です。これを実現させるためには、カスタマイズや独自仕様を極力廃してブラックボックス化を回避し、オープンな仕様で、様々なサービスとの連携やデータ利活用を平易に行える情報システムを構築することが求められています。<br>
